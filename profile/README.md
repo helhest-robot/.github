@@ -8,10 +8,13 @@
 
 [![Helhest robot](https://github.com/user-attachments/assets/51508a69-8891-4ab6-9ade-5e0353c7bf66)](https://www.helhest.com)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgfoRRBB4uo?si=pXPp-tA3VkgQM_TN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4vYeujsY3s?si=JHlp3OuvWI3OlC3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Various hardware and software setups are available for the civil and military sectors.
 
 Contact us for pricing and delivery details at [info@helhest.com](mailto:info@helhest.com)
-
 
 ---
 

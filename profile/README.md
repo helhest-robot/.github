@@ -1,16 +1,17 @@
-# Helhest Tactical Ground Robot 🤖
+# Helhest Tactical Ground Robot
 
 **Helhest** is a spin-off of [ČVUT (Czech Technical University in Prague)](https://www.cvut.cz/en) developing **tactical unmanned ground vehicles (UGVs)** for the civil and military sectors.
 
 ---
 
-## 🤖 Product
+## Product
 
-[![Helhest robot](https://lh3.googleusercontent.com/sitesv/APaQ0SRxV2ob5FMpE1s6kcekXoBFnfyyp3NcFsqPwaxmXMAnSNwOZXD3UgJMJzA_6LvP4cdJwbv-2XoJgjsBEfqWQXPfMRBNBRpHTNjzZ8d_1LXj3hUcqLiZGFPAcBbLmzb1wl3dU8WRss7Z_Aiwfa3re0hn3-aXOJhSOSi4y7ycLrW625GoPX2hlOokPUoFDCSYHp4tSdqvx886dK7wUkoW3CYi3GbtMojfc38Vv1Q=w1280)](https://www.helhest.com)
+[![Helhest robot](https://github.com/user-attachments/assets/51508a69-8891-4ab6-9ade-5e0353c7bf66)](https://www.helhest.com)
 
 Various hardware and software setups are available for the civil and military sectors.
 
 Contact us for pricing and delivery details at [info@helhest.com](mailto:info@helhest.com)
+
 
 ---
 
